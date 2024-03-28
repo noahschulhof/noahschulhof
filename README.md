@@ -13,6 +13,7 @@ I'm a sophomore at Northwestern University pursuing a BA in Data Science and a B
 [![UNIX](https://img.shields.io/badge/-UNIX-000000?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ### Libraries:
 [![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
