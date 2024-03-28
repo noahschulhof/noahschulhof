@@ -1,5 +1,4 @@
 # Hi, I'm Noah! 👋
-
 I'm a sophomore at Northwestern University pursuing a BA in Data Science and a BA/MS in Statistics. I'm passionate about ML/AI and their applications in healthcare and biomedicine.
 
 ### Languages and Tools:
@@ -27,8 +26,8 @@ I'm a sophomore at Northwestern University pursuing a BA in Data Science and a B
 
 ### Skills:
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=neutralinojs&logoColor=white)
-![Bioinformatics](https://img.shields.io/badge/-Bioinformatics-00736E?style=flat&logo=pyg&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-FF6F61?style=flat&logo=chart.js&logoColor=white)
+![Bioinformatics](https://img.shields.io/badge/-Bioinformatics-00736E?style=flat&logo=pyg&logoColor=white)
 
 
 ### Connect with Me:
