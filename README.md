@@ -17,6 +17,7 @@ I'm a sophomore at Northwestern University pursuing a BA in Data Science and a B
 
 ### Libraries:
 [![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Statsmodels](https://img.shields.io/badge/-Statsmodels-376EE6?style=flat&logo=statsmodels&logoColor=white)](https://www.statsmodels.org/stable/index.html)
 [![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)](https://www.scipy.org/)
 [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
