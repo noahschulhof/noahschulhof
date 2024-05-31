@@ -1,5 +1,5 @@
 # Hi, I'm Noah! 👋
-I'm a sophomore at Northwestern University pursuing a BA in Data Science and a BA/MS in Statistics. I'm passionate about ML/AI and their applications in healthcare and biomedicine.
+I'm a sophomore at Northwestern University studying Data Science and Statistics. I'm passionate about ML/AI and their applications in healthcare and biomedicine.
 
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
