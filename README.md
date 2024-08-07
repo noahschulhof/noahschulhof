@@ -6,14 +6,12 @@ I'm a fourth-year student at Northwestern University studying Data Science and S
 [![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/)
 [![QIIME 2](https://img.shields.io/badge/-QIIME%202-185618?style=flat&logo=qi&logoColor=white)](https://qiime2.org/)
 [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Slurm](https://img.shields.io/badge/-Slurm-444444?style=flat&logo=linux&logoColor=white)](https://slurm.schedmd.com/)
-[![UNIX](https://img.shields.io/badge/-UNIX-000000?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![UNIX](https://img.shields.io/badge/-UNIX-000000?style=flat&logo=linux&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ## Frameworks:
 [![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
@@ -26,8 +24,6 @@ I'm a fourth-year student at Northwestern University studying Data Science and S
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Tidyverse](https://img.shields.io/badge/-Tidyverse-23314B?style=flat&logo=tidyverse&logoColor=white)](https://www.tidyverse.org/)
 [![Gurobi](https://img.shields.io/badge/-Gurobi-56A637?style=flat&logo=gurobi&logoColor=white)](https://www.gurobi.com/)
-[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-
 
 ## Skills:
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=neutralinojs&logoColor=white)
@@ -35,6 +31,6 @@ I'm a fourth-year student at Northwestern University studying Data Science and S
 ![Bioinformatics](https://img.shields.io/badge/-Bioinformatics-00736E?style=flat&logo=pyg&logoColor=white)
 
 
-### Connect with Me:
+## Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-schulhof)
-[![Gmail](https://img.shields.io/badge/-Gmail-181717?style=flat&logo=gmail&logoColor=#EA4335)](mailto:nschulhof@u.northwestern.edu)
+[![Gmail](https://img.shields.io/badge/-Gmail-181717?style=flat&logo=gmail&logoColor=white)](mailto:nschulhof@u.northwestern.edu)
