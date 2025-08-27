@@ -1,6 +1,6 @@
 # Hi, I'm Noah! 👋
 
-I'm a third-year student at Northwestern University studying Data Science and Statistics. I'm passionate about ML/AI and their applications in financial services, healthcare, and biomedicine.
+I'm a Master's student at Northwestern University studying Data Science and Statistics. I'm passionate about ML/AI and their applications in financial services, healthcare, and biomedicine.
 
 ## Languages and Tools:
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
