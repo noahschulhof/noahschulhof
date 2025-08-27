@@ -1,4 +1,4 @@
-# Hi, I'm Noah! 👋
+# Hi, I'm Noah 👋
 
 I'm a Master's student at Northwestern University studying Data Science and Statistics. I'm passionate about ML/AI and their applications in financial services, healthcare, and biomedicine.
 
